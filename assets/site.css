@@ -30,3 +30,5 @@ footer{padding:36px 0 48px;font-size:.9rem;border-top:1px solid color-mix(in srg
 .check h3{margin-top:18px}.check label{display:flex;gap:10px;align-items:flex-start;padding:6px 0}.check input{width:20px;height:20px;accent-color:var(--acc)}
 .legal{max-width:760px}.legal h2{font-size:1.3rem;margin-top:1.6em}
 .band{background:var(--ink);color:var(--on-ink)}.band a{color:var(--on-ink)}.band .btn.ghost{color:var(--on-ink);border-color:var(--on-ink)}.band .btn:not(.ghost){color:var(--on-acc)}.band .eyebrow{color:#F4A261}.hero .wrap{display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:center}@media(max-width:800px){.hero .wrap{grid-template-columns:1fr}}.band .draft{color:var(--ink)}
+
+.fine.fine-gap{margin-top:18px}
